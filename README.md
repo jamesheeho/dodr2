@@ -2,6 +2,6 @@
 =======
 #Practicing github
 
-new ***readme file***
-new ***readme file***
+new ***readme file***\n
+new ***readme file***\n
 new ***readme file***
